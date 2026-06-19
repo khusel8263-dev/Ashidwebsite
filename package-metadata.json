@@ -1,0 +1,13 @@
+{
+  "source_repository": "khusel8263-dev/themeforest",
+  "source_file": "html/center-navigation.html",
+  "entry_files": [
+    "index.html",
+    "center-navigation.html"
+  ],
+  "notes": [
+    "Local placeholder images replace remote placehold.it URLs",
+    "Asset paths preserved",
+    "Includes exact-original packing PowerShell script"
+  ]
+}

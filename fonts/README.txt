@@ -1,0 +1,1 @@
+Original template icon fonts are not embedded in this generated safe package. Key icons are mapped in css/style.css. For exact POFO assets, use tools/pack-original-from-local.ps1 on the original ThemeForest folder.
