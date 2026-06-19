@@ -581,16 +581,20 @@ section {
 }
 
 .fa-search:before {
-    content: '⌕'
+    content: '⌕';
+    font-weight: bold
+    color- #100202
 }
 
 .fa-facebook-f:before {
     content: 'f';
     font-weight: bold
+    color- #100202
 }
 .fa-instagram:before {
     content: '◎'; 
     font-weight: bold 
+    color- #100202
 }
 
 .ti-arrow-down:before {
