@@ -588,6 +588,10 @@ section {
     content: 'f';
     font-weight: bold
 }
+.fa-instagram:before {
+    content: '◎'; 
+    font-weight: bold 
+}
 
 .ti-arrow-down:before {
     content: '↓'
