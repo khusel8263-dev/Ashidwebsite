@@ -291,6 +291,29 @@ section {
     padding-bottom: 50px
 }
 
+.thirty-all {
+    position: relative;
+    top: -140px;
+    
+}
+.thirty-all+ {
+    position: relative;
+    top: -40px;
+}
+.thirty-all2{
+    position: relative;
+    top: -140px;
+
+}
+.thirty-all2+{
+    position: relative;
+    top: -40px;
+}
+.thirty-bottom{
+    position: relative;
+    top: -40px;
+}
+
 .btn {
     display: inline-flex;
     align-items: center;
