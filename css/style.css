@@ -291,28 +291,6 @@ section {
     padding-bottom: 50px
 }
 
-.thirty-all {
-    position: relative;
-    top: -140px;
-    
-}
-.thirty-all+ {
-    position: relative;
-    top: -40px;
-}
-.thirty-all2{
-    position: relative;
-    top: -140px;
-
-}
-.thirty-all2+{
-    position: relative;
-    top: -40px;
-}
-.thirty-bottom{
-    position: relative;
-    top: -40px;
-}
 
 .btn {
     display: inline-flex;
@@ -603,22 +581,6 @@ section {
     font-style: normal
 }
 
-.fa-search:before {
-    content: '⌕';
-    font-weight: bold
-    color- #100202
-}
-
-.fa-facebook-f:before {
-    content: 'f';
-    font-weight: bold
-    color- #100202
-}
-.fa-instagram:before {
-    content: '◎'; 
-    font-weight: bold 
-    color- #100202
-}
 
 .ti-arrow-down:before {
     content: '↓'
